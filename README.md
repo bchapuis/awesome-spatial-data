@@ -7,7 +7,20 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 **Table of Contents:**
 
 - [Open Spatial Data](#open-spatial-data)
+- [Scientific Spatial Data](#scientific-spatial-data)
+- [Commercial Spatial Data](#commercial-spatial-data)
 
 ## Open Spatial Data
 
+- [GeoNames](https://www.geonames.org/) - Geographical database of place names.
+- [OpenRailwayMap](https://www.openrailwaymap.org/) - Map of the world's railway infrastructure.
+- [OpenSnowMap](http://www.opensnowmap.org/) - Worldwide ski map.
 - [OpenStreetMap](https://www.openstreetmap.org/) - OpenStreetMap is the free wiki world map.
+- [OpenTraffic](http://opentraffic.io/) - Global data platform to process anonymous positions of vehicles and smartphones. 
+
+## Scientific Spatial Data
+
+- [Mobile Data Challenge (MDC) Dataset](https://www.idiap.ch/dataset/mdc) - Behavioural data collected by Nokia and around 200 volunteers around Lausanne and Geneva.
+
+## Commercial Spatial Data
+
