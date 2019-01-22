@@ -20,8 +20,8 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 
 ## Scientific Spatial Data
 
-- [Mobile Data Challenge (MDC) Dataset](https://www.idiap.ch/dataset/mdc) - Behavioural data and GPS trajectories collected by Nokia and around 200 users.
-- [Geolife GPS trajectory dataset](https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/) - GPS trajectories collected by Microsoft Research and 178 users.
+- [Mobile Data Challenge (MDC) Dataset](https://www.idiap.ch/dataset/mdc) - Behavioural data and GPS trajectories collected by Nokia (200 users).
+- [Geolife GPS trajectory dataset](https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/) - GPS trajectories collected by Microsoft Research (178 users).
 
 ## Commercial Spatial Data
 
