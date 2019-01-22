@@ -14,6 +14,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 ## Open Spatial Data
 
 - [GeoNames](https://www.geonames.org/) - Geographical database of place names.
+- [OpenBusMap](http://www.openbusmap.org) -  Map of the world's bus lines.
 - [OpenRailwayMap](https://www.openrailwaymap.org/) - Map of the world's railway infrastructure.
 - [OpenSnowMap](http://www.opensnowmap.org/) - Worldwide ski map.
 - [OpenStreetMap](https://www.openstreetmap.org/) - OpenStreetMap is the free wiki world map.
