@@ -12,12 +12,14 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 
 ## Open Spatial Data
 
+- [ASTER GDEM](https://asterweb.jpl.nasa.gov/gdem.asp) - Global digital elevation map.
 - [GeoNames](https://www.geonames.org/) - Geographical database of place names.
 - [OpenRailwayMap](https://www.openrailwaymap.org/) - Map of the world's railway infrastructure.
 - [OpenSnowMap](http://www.opensnowmap.org/) - Worldwide ski map.
 - [OpenStreetMap](https://www.openstreetmap.org/) - OpenStreetMap is the free wiki world map.
-- [OpenTraffic](http://opentraffic.io/) - Global data platform to process anonymous positions of vehicles and smartphones. 
-- [ASTER GDEM](https://asterweb.jpl.nasa.gov/gdem.asp) - Global digital elevation map.
+- [OpenTraffic](http://opentraffic.io/) - Global data platform to process anonymous positions of vehicles and smartphones.
+- [SRTM](https://earthdata.nasa.gov/nasa-shuttle-radar-topography-mission-srtm-version-3-0-global-1-arc-second-data-released-over-asia-and-australia) - NASA Shuttle Radar Topography Mission.
+
 
 ## Scientific Spatial Data
 
