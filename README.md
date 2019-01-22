@@ -20,6 +20,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [OpenStreetMap](https://www.openstreetmap.org/) - OpenStreetMap is the free wiki world map.
 - [OpenTraffic](http://opentraffic.io/) - Global data platform to process anonymous positions of vehicles and smartphones.
 - [IP2Location](https://lite.ip2location.com/) - GeoIP database.
+- [GeoLite2](https://www.maxmind.com/en/open-source-data-and-api-for-ip-geolocation) - GeoIP database.
 
 ## Open Elevation Data
 
