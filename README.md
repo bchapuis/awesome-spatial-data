@@ -21,6 +21,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [OpenSnowMap](http://www.opensnowmap.org/) - Worldwide ski map.
 - [OpenStreetMap](https://www.openstreetmap.org/) - OpenStreetMap is the free wiki world map.
 - [OpenTraffic](http://opentraffic.io/) - Global data platform to process anonymous positions of vehicles and smartphones.
+- [OpenMapTiles](https://openmaptiles.com/downloads/planet/) - OpenStreetMap, elevation, hillshading and satellite data as MBTiles.
 
 ## Elevation Data
 
