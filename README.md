@@ -3,7 +3,7 @@
 
 Awesome Spatial Data is a curated list of open, scientific and commercial spatial datasets.
 
-**A spatial dataset is missing?** You are welcome to contribute by following the [Contributing Guidelines](https://github.com/bchapuis/awesome-spatial-data/blob/master/CONTRIBUTING.md).
+**A spatial dataset is missing?** You are welcome to improve the list by following the [Contributing Guidelines](https://github.com/bchapuis/awesome-spatial-data/blob/master/CONTRIBUTING.md).
 
 **Table of Contents:**
 
