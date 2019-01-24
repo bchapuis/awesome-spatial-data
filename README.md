@@ -30,6 +30,8 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [SRTM](https://earthdata.nasa.gov/nasa-shuttle-radar-topography-mission-srtm-version-3-0-global-1-arc-second-data-released-over-asia-and-australia) - NASA Shuttle Radar Topography Mission.
 - [3DEP](https://www.usgs.gov/core-science-systems/ngp/3dep) - United States, Hawaii, and the U.S. territories.
 - [CDEM](https://open.canada.ca/data/en/dataset/7f245e4d-76c2-4caa-951a-45d1d2051333) - Canadian Digital Elevation Model.
+- [DGMO](https://www.data.gv.at/katalog/dataset/b5de6975-417b-4320-afdb-eb2a9e2a1dbf) - Austria Digital Elevation Model.
+- [ETOPO1](https://www.ngdc.noaa.gov/mgg/global/) - 1 arc-minute global relief model of Earth's surface that integrates land topography and ocean bathymetry.
 
 
 ## Satellite Imagery
