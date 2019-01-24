@@ -23,6 +23,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [OpenTraffic](http://opentraffic.io/) - Global data platform to process anonymous positions of vehicles and smartphones.
 - [OpenMapTiles](https://openmaptiles.com/downloads/planet/) - OpenStreetMap, elevation, hillshading and satellite data as MBTiles.
 
+
 ## Elevation Data
 
 - [ASTER GDEM](https://asterweb.jpl.nasa.gov/gdem.asp) - Global digital elevation map.
@@ -32,6 +33,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [CDEM](https://open.canada.ca/data/en/dataset/7f245e4d-76c2-4caa-951a-45d1d2051333) - Canadian Digital Elevation Model.
 - [DGMO](https://www.data.gv.at/katalog/dataset/b5de6975-417b-4320-afdb-eb2a9e2a1dbf) - Austria Digital Elevation Model.
 - [ETOPO1](https://www.ngdc.noaa.gov/mgg/global/) - 1 arc-minute global relief model of Earth's surface that integrates land topography and ocean bathymetry.
+- [EU-DEM](https://www.eea.europa.eu/data-and-maps/data/eu-dem#tab-original-data) - Digital Elevation Model over Europe from the GMES RDA project (EU-DEM).
 
 
 ## Satellite Imagery
