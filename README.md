@@ -12,7 +12,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [Satellite Imagery](#satellite-imagery)
 - [Scientific Data](#scientific-data)
 - [IP to Location](#ip-to-location-data)
-- [Environmental-data](#environmental-data)
+- [Environmental Data](#environmental-data)
 - [Socioeconomic Data](#socioeconomic-data)
 
 ## Vector Data
