@@ -8,7 +8,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 **Table of Contents:**
 
 - [Vector Data](#vector-data)
-- [Elevation Data](#elevation-data)
+- [Topographic Data](#topographic-data)
 - [Satellite Imagery](#satellite-imagery)
 - [Scientific Data](#scientific-data)
 - [IP to Location](#ip-to-location-data)
@@ -25,7 +25,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [OpenMapTiles](https://openmaptiles.com/downloads/planet/) - OpenStreetMap, elevation, hillshading and satellite data as MBTiles.
 
 
-## Elevation Data
+## Topographic Data
 
 - [ASTER GDEM](https://asterweb.jpl.nasa.gov/gdem.asp) - Global digital elevation map.
 - [EU-DEM](https://www.eea.europa.eu/data-and-maps/data/copernicus-land-monitoring-service-eu-dem) - Digital surface model (DSM) of EEA member and cooperating countries.
@@ -36,6 +36,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [ETOPO1](https://www.ngdc.noaa.gov/mgg/global/) - 1 arc-minute global relief model of Earth's surface that integrates land topography and ocean bathymetry.
 - [EU-DEM](https://www.eea.europa.eu/data-and-maps/data/eu-dem#tab-original-data) - Digital Elevation Model over Europe from the GMES RDA project (EU-DEM).
 - [GMTED2010](https://topotools.cr.usgs.gov/gmted_viewer/) - Global Multi-resolution Terrain Elevation Data.
+- [OpenTopography](http://opentopo.sdsc.edu/datasets) - High-Resolution Topography Data and Tools.
 
 ## Satellite Imagery
 
