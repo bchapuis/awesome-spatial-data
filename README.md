@@ -62,6 +62,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 ## Environmental Data
 
 - [UNEP](http://geodata.grid.unep.ch/) - United Nations Environment Programme.
+- [NEO](https://neo.sci.gsfc.nasa.gov/) - NASA Earth Observation.
 
 ## Socioeconomic Data
 
