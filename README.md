@@ -45,7 +45,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [Landsat 8](https://landsat.usgs.gov/landsat-8) - The Landsat 8 satellite images the entire Earth every 16 days.
 - [Planet](https://www.planet.com/products/planet-imagery/) - Commercial vendor of space imagery and geospatial content (Daily updates).
 - [DigitalGlobe](https://www.digitalglobe.com/) - Commercial vendor of space imagery and geospatial content (High resolution).
-- [OpenAerialMap](https://openaerialmap.org/) - A set of tools for searching, sharing, and using openly licensed satellite and unmanned aerial vehicle (UAV) imagery.
+- [OpenAerialMap](https://openaerialmap.org/) - Openly licensed satellite and unmanned aerial vehicle (UAV) imagery.
 
 ## Scientific Data
 
