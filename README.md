@@ -9,7 +9,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 
 - [Vector Data](#vector-data)
 - [Topographic Data](#topographic-data)
-- [Satellite Imagery](#satellite-imagery)
+- [Satellite and Aerial Imagery](#satellite-and-aerial-imagery)
 - [Scientific Data](#scientific-data)
 - [IP to Location](#ip-to-location-data)
 - [Environmental Data](#environmental-data)
@@ -25,7 +25,6 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [OpenTraffic](http://opentraffic.io/) - Global data platform to process anonymous positions of vehicles and smartphones.
 - [OpenMapTiles](https://openmaptiles.com/downloads/planet/) - OpenStreetMap, elevation, hillshading and satellite data as MBTiles.
 
-
 ## Topographic Data
 
 - [ASTER GDEM](https://asterweb.jpl.nasa.gov/gdem.asp) - Global digital elevation map.
@@ -39,13 +38,14 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [GMTED2010](https://topotools.cr.usgs.gov/gmted_viewer/) - Global Multi-resolution Terrain Elevation Data.
 - [OpenTopography](http://opentopo.sdsc.edu/datasets) - High-Resolution Topography Data and Tools.
 
-## Satellite Imagery
+## Satellite and Aerial Imagery
 
 - [Sentinel-2 cloudless](https://s2maps.eu/) - Cloudless Satellite imagery by ESA.
 - [EOxCloudless](https://cloudless.eox.at/) - Explotation-ready multispectral satellite imagery.
 - [Landsat 8](https://landsat.usgs.gov/landsat-8) - The Landsat 8 satellite images the entire Earth every 16 days.
 - [Planet](https://www.planet.com/products/planet-imagery/) - Commercial vendor of space imagery and geospatial content (Daily updates).
 - [DigitalGlobe](https://www.digitalglobe.com/) - Commercial vendor of space imagery and geospatial content (High resolution).
+- [OpenAerialMap](https://openaerialmap.org/) - A set of tools for searching, sharing, and using openly licensed satellite and unmanned aerial vehicle (UAV) imagery.
 
 ## Scientific Data
 
