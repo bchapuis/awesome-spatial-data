@@ -58,6 +58,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 
 - [IP2Location](https://lite.ip2location.com/) - GeoIP database.
 - [GeoLite2](https://www.maxmind.com/en/open-source-data-and-api-for-ip-geolocation) - GeoIP database.
+- [ipstack](https://ipstack.com/) - IP to geolocation APIs and global IP database services worldwide.
 
 ## Environmental Data
 
