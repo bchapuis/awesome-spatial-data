@@ -36,6 +36,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [DGMO](https://www.data.gv.at/katalog/dataset/b5de6975-417b-4320-afdb-eb2a9e2a1dbf) - Austria Digital Elevation Model.
 - [ETOPO1](https://www.ngdc.noaa.gov/mgg/global/) - 1 arc-minute global relief model of Earth's surface that integrates land topography and ocean bathymetry.
 - [EU-DEM](https://www.eea.europa.eu/data-and-maps/data/eu-dem#tab-original-data) - Digital Elevation Model over Europe from the GMES RDA project (EU-DEM).
+- [JAXA](https://www.eorc.jaxa.jp/ALOS/en/aw3d30/index.htm) - ALOS Global Digital Surface Model.
 - [GMTED2010](https://topotools.cr.usgs.gov/gmted_viewer/) - Global Multi-resolution Terrain Elevation Data.
 - [OpenTopography](http://opentopo.sdsc.edu/datasets) - High-Resolution Topography Data and Tools.
 
