@@ -5,7 +5,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 
 **A spatial dataset is missing?** You are welcome to improve the list by following the [Contributing Guidelines](https://github.com/bchapuis/awesome-spatial-data/blob/master/CONTRIBUTING.md).
 
-**Table of Contents:**
+## Table of Contents
 
 - [Vector Data](#vector-data)
 - [Topographic Data](#topographic-data)
