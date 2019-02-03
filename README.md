@@ -25,6 +25,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [OpenStreetMap](https://www.openstreetmap.org/) - OpenStreetMap is the free wiki world map.
 - [OpenTraffic](http://opentraffic.io/) - Global data platform to process anonymous positions of vehicles and smartphones.
 - [OpenMapTiles](https://openmaptiles.com/downloads/planet/) - OpenStreetMap, elevation, hillshading and satellite data as MBTiles.
+- [Natural Earth](http://www.naturalearthdata.com/) - Natural Earth is a public domain map dataset available at various scales.
 
 ## Topographic Data
 
