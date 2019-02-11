@@ -57,6 +57,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [TLC Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) - NYC taxi trip records.
 - [PrivaMov Dataset](https://projet.liris.cnrs.fr/privamov/project/dataset) - multi-sensor mobility dataset collected by INRIA
 - [ACM Giscup 2017](http://www.martinwerner.de/datasets/san-francisco-shortest-path.html) - A synthetic dataset of shortest path.
+- [BerlinMOD](http://dna.fernuni-hagen.de/secondo/BerlinMOD/BerlinMOD.html) - Synthetic trajectory dataset.
 
 ## IP to Location Data
 
