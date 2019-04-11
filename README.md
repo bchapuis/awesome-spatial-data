@@ -14,6 +14,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [IP to Location](#ip-to-location-data)
 - [Environmental Data](#environmental-data)
 - [Socioeconomic Data](#socioeconomic-data)
+- [Transport Data](#transport-data)
 - [Open Data Catalogs](#open-data-catalogs)
 
 ## Vector Data
@@ -74,6 +75,10 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 
 - [SEDAC](http://sedac.ciesin.columbia.edu/) - Socioeconomic Data and Application Center.
 - [Population Estimates](https://spatialdata.dhsprogram.com/population-estimates/) - Demographic data from the U.S. Census Bureau.
+
+## Transport Data
+
+-[OpenTransportData](https://opentransportdata.swiss/en/) - Open Data from Swiss Transport Companies.
 
 ## Open Data Catalogs
 
