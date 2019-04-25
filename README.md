@@ -85,4 +85,5 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [DATA.GOV](https://catalog.data.gov) - The home of the U.S. Government’s open data.
 - [USGS.GOV](https://www.usgs.gov/) - Timely, relevant, and useful information about the Earth and its processes.
 - [INSPIRE](http://inspire-geoportal.ec.europa.eu/) - Enhancing access to European spatial data.
+- [HDX](https://data.humdata.org/) - The Humanitarian Data Exchange. 
 
