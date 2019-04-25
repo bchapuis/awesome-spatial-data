@@ -75,6 +75,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 
 - [SEDAC](http://sedac.ciesin.columbia.edu/) - Socioeconomic Data and Application Center.
 - [Population Estimates](https://spatialdata.dhsprogram.com/population-estimates/) - Demographic data from the U.S. Census Bureau.
+- [Facebook Population Estimates](https://ai.facebook.com/blog/mapping-the-world-to-help-aid-workers-with-weakly-semi-supervised-learning) -  High-resolution population maps for 22 countries.
 
 ## Transport Data
 
