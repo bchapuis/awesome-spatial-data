@@ -50,6 +50,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [Planet](https://www.planet.com/products/planet-imagery/) - Commercial vendor of space imagery and geospatial content (Daily updates).
 - [DigitalGlobe](https://www.digitalglobe.com/) - Commercial vendor of space imagery and geospatial content (High resolution).
 - [OpenAerialMap](https://openaerialmap.org/) - Openly licensed satellite and unmanned aerial vehicle (UAV) imagery.
+- [Eumetsat](https://www.eumetsat.int/website/home/Data/DataDelivery/EUMETCast/index.html) -  A multi-service dissemination system based on multicast technology.
 
 ## Scientific Data
 
