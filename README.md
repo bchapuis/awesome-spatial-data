@@ -13,6 +13,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [Scientific Data](#scientific-data)
 - [IP to Location](#ip-to-location-data)
 - [Environmental Data](#environmental-data)
+- [Maritime Data](#maritime-data)
 - [Socioeconomic Data](#socioeconomic-data)
 - [Transport Data](#transport-data)
 - [Open Data Catalogs](#open-data-catalogs)
@@ -71,6 +72,10 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 
 - [UNEP](http://geodata.grid.unep.ch/) - United Nations Environment Programme.
 - [NEO](https://neo.sci.gsfc.nasa.gov/) - NASA Earth Observation.
+
+## Maritime Data
+
+- [Maritime Traffic](https://www.marinetraffic.com/en/ais-api-services) - AIS Maritime Traffic Data and APIs.
 
 ## Socioeconomic Data
 
