@@ -86,6 +86,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 ## Transport Data
 
 - [OpenTransportData](https://opentransportdata.swiss/en/) - Open Data from Swiss Transport Companies.
+- [OpenMobilityData](https://transitfeeds.com/news/open-mobility-data) - Real-time mobility information platform. 
 
 ## Open Data Catalogs
 
