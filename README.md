@@ -35,6 +35,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [ASTER GDEM](https://asterweb.jpl.nasa.gov/gdem.asp) - Global digital elevation map.
 - [EU-DEM](https://www.eea.europa.eu/data-and-maps/data/copernicus-land-monitoring-service-eu-dem) - Digital surface model (DSM) of EEA member and cooperating countries.
 - [SRTM](https://earthdata.nasa.gov/nasa-shuttle-radar-topography-mission-srtm-version-3-0-global-1-arc-second-data-released-over-asia-and-australia) - NASA Shuttle Radar Topography Mission.
+- [CGIA](http://srtm.csi.cgiar.org/)- Improved dataset based on SRTM.
 - [3DEP](https://www.usgs.gov/core-science-systems/ngp/3dep) - United States, Hawaii, and the U.S. territories.
 - [CDEM](https://open.canada.ca/data/en/dataset/7f245e4d-76c2-4caa-951a-45d1d2051333) - Canadian Digital Elevation Model.
 - [DGMO](https://www.data.gv.at/katalog/dataset/b5de6975-417b-4320-afdb-eb2a9e2a1dbf) - Austria Digital Elevation Model.
