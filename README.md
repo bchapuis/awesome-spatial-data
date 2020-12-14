@@ -44,6 +44,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [JAXA](https://www.eorc.jaxa.jp/ALOS/en/aw3d30/index.htm) - ALOS Global Digital Surface Model.
 - [GMTED2010](https://topotools.cr.usgs.gov/gmted_viewer/) - Global Multi-resolution Terrain Elevation Data.
 - [OpenTopography](http://opentopo.sdsc.edu/datasets) - High-Resolution Topography Data and Tools.
+- [Copernicus DEM](https://registry.opendata.aws/copernicus-dem/) - Worldwide coverage at 90 meters.
 
 ## Satellite and Aerial Imagery
 
