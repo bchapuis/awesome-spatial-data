@@ -39,6 +39,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [Geolife GPS trajectory dataset](https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/) - GPS trajectories collected by Microsoft Research (178 users).
 - [TLC Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) - NYC taxi trip records.
 - [PrivaMov Dataset](https://projet.liris.cnrs.fr/privamov/project/dataset) - multi-sensor mobility dataset collected by INRIA 
+- [Breadcrumbs dataset](https://github.com/doplab/breadcrumbsDB) - rich mobility dataset collected from multiple sensors (incl. GPS, GSM, WiFi, Bluetooth)
 
 ## Commercial Spatial Data
 
