@@ -61,7 +61,8 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [Mobile Data Challenge (MDC) Dataset](https://www.idiap.ch/dataset/mdc) - Behavioural data and GPS trajectories collected by Nokia (200 users).
 - [Geolife GPS trajectory dataset](https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/) - GPS trajectories collected by Microsoft Research (178 users).
 - [TLC Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) - NYC taxi trip records.
-- [PrivaMov Dataset](https://projet.liris.cnrs.fr/privamov/project/dataset) - multi-sensor mobility dataset collected by INRIA
+- [PrivaMov Dataset](https://projet.liris.cnrs.fr/privamov/project/dataset) - multi-sensor mobility dataset collected by INRIA 
+- [Breadcrumbs dataset](https://github.com/doplab/breadcrumbsDB) - rich mobility dataset collected from multiple sensors (incl. GPS, GSM, WiFi, Bluetooth)
 - [ACM Giscup 2017](http://www.martinwerner.de/datasets/san-francisco-shortest-path.html) - A synthetic dataset of shortest path.
 - [BerlinMOD](http://dna.fernuni-hagen.de/secondo/BerlinMOD/BerlinMOD.html) - Synthetic trajectory dataset.
 
