@@ -92,9 +92,9 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [OpenTransportData](https://opentransportdata.swiss/en/) - Open Data from Swiss Transport Companies.
 - [OpenMobilityData](https://transitfeeds.com/news/open-mobility-data) - Real-time mobility information platform. 
 - [TransitLand](https://transit.land/) - A data service aggregating transit networks.
-- [Navitia.io](Navitia.io) - The open API for building cool stuff with transport data
-- [OurAirports](https://ourairports.com/data/) - Airports data
-
+- [Navitia.io](Navitia.io) - The open API for building cool stuff with transport data.
+- [OurAirports](https://ourairports.com/data/) - Airports data.
+- [IATA](https://www.iata.org/en/publications/store/airline-coding-directory/) - Airline Coding Directory and Location Identifiers.
 
 
 ## Addresses
