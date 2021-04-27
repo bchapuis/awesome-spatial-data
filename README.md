@@ -93,6 +93,9 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [OpenMobilityData](https://transitfeeds.com/news/open-mobility-data) - Real-time mobility information platform. 
 - [TransitLand](https://transit.land/) - A data service aggregating transit networks.
 - [Navitia.io](Navitia.io) - The open API for building cool stuff with transport data
+- [OurAirports](https://ourairports.com/data/) - Airports data
+
+
 
 ## Addresses
 
