@@ -76,6 +76,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 
 - [UNEP](http://geodata.grid.unep.ch/) - United Nations Environment Programme.
 - [NEO](https://neo.sci.gsfc.nasa.gov/) - NASA Earth Observation.
+- [ESA LandCover](https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-land-cover) - Land cover classification derived from sattelite observations.
 
 ## Maritime Data
 
