@@ -45,6 +45,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [GMTED2010](https://topotools.cr.usgs.gov/gmted_viewer/) - Global Multi-resolution Terrain Elevation Data.
 - [OpenTopography](http://opentopo.sdsc.edu/datasets) - High-Resolution Topography Data and Tools.
 - [Copernicus DEM](https://registry.opendata.aws/copernicus-dem/) - Worldwide coverage at 90 meters.
+- [GEBCO](https://www.gebco.net/) - High quality Bathymetric data sets for the world's oceans.
 
 ## Satellite and Aerial Imagery
 
