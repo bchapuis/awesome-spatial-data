@@ -115,6 +115,10 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 
 - [OpenCelliD](https://www.opencellid.org/) - The world's largest Open Database of Cell Towers.
 
+## Electricity Data
+
+- [ENTSOE](https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/Guide.html) - Electricity data in Europe.
+
 ## Tutorials
 
 - [GEOS](http://esorensen.com/goes-part-1/) - Getting full disk images from the GEOS-16 and GEOS-17 satellites.
