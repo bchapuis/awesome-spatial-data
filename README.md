@@ -7,6 +7,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 
 ## Table of Contents
 
+- [Administrative Boundaries](#administrative-boundaries)
 - [Vector Data](#vector-data)
 - [Topographic Data](#topographic-data)
 - [Satellite and Aerial Imagery](#satellite-and-aerial-imagery)
@@ -17,6 +18,11 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [Socioeconomic Data](#socioeconomic-data)
 - [Transport Data](#transport-data)
 - [Open Data Catalogs](#open-data-catalogs)
+
+## Administrative Boundaries
+
+- [geoBoundaries](https://www.geoboundaries.org/) - Database of political administrative boundaries.
+- [GADM](https://gadm.org/) - Spatial data for all countries and their sub-divisions
 
 ## Vector Data
 
