@@ -18,6 +18,8 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [Socioeconomic Data](#socioeconomic-data)
 - [Transport Data](#transport-data)
 - [Open Data Catalogs](#open-data-catalogs)
+- [Panoramic photography](#panoramic-photography)
+- [Tutorials](#tutorials)
 
 ## Administrative Boundaries
 
@@ -258,6 +260,11 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
   - Texas: [ERCOT](http://www.ercot.com/content/cdr/html/real_time_system_conditions.html)
   - Seminole Electric Cooperative (Florida): [EIA](https://www.eia.gov/opendata/qb.php?category=2122629&sdid=EBA.SEC-ALL.NG.H), [SEC](https://www.seminole-electric.com/facilities/generation/)
 - Uruguay: [UTE](https://apps.ute.com.uy/SgePublico/ConsPotenciaGeneracionArbolXFuente.aspx)
+
+## Panoramic photography
+- [Mapillary](https://www.mapillary.com/)
+- [Panoramax](https://panoramax.fr/)
+
 ## Tutorials
 
 - [GEOS](http://esorensen.com/goes-part-1/) - Getting full disk images from the GEOS-16 and GEOS-17 satellites.
