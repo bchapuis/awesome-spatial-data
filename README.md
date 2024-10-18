@@ -264,6 +264,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 ## Panoramic photography
 - [Mapillary](https://www.mapillary.com/)
 - [Panoramax](https://panoramax.fr/)
+- [Mosaic (Prague)](https://www.mosaic51.com/featured/mosaic-realmap-explore-prague-in-unprecedented-detail-with-1-26-million-images/)
 
 ## Tutorials
 
