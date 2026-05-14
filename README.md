@@ -25,6 +25,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 
 - [geoBoundaries](https://www.geoboundaries.org/) - Database of political administrative boundaries.
 - [GADM](https://gadm.org/) - Spatial data for all countries and their sub-divisions
+- [Zip-Codes](https://www.zip-codes.com/api/) - US ZIP and Canadian postal code boundaries intersected with Census tracts, congressional districts, school districts, and more.
 
 ## Vector Data
 
