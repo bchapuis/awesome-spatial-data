@@ -59,7 +59,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 
 - [Sentinel-2 cloudless](https://s2maps.eu/) - Cloudless Satellite imagery by ESA.
 - [EOxCloudless](https://cloudless.eox.at/) - Explotation-ready multispectral satellite imagery.
-- [Landsat 8](https://landsat.usgs.gov/landsat-8) - The Landsat 8 satellite images the entire Earth every 16 days.
+- [Landsat 8](https://www.usgs.gov/landsat-missions/landsat-8) - The Landsat 8 satellite images the entire Earth every 16 days.
 - [Planet](https://www.planet.com/products/planet-imagery/) - Commercial vendor of space imagery and geospatial content (Daily updates).
 - [DigitalGlobe](https://www.digitalglobe.com/) - Commercial vendor of space imagery and geospatial content (High resolution).
 - [OpenAerialMap](https://openaerialmap.org/) - Openly licensed satellite and unmanned aerial vehicle (UAV) imagery.
