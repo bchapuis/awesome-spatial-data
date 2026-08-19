@@ -90,7 +90,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 ## Maritime Data
 
 - [Maritime Traffic](https://www.marinetraffic.com/en/ais-api-services) - AIS Maritime Traffic Data and APIs.
-- [logibook Ports](https://logibook.dataint.net/en/port) - Georeferenced profiles for 3,316 seaports: channel/anchorage/cargo-pier depths, harbour type and shelter, pilotage and tug services, berth facilities and ISPS status, with UNCTAD liner-shipping connectivity and Marine Regions EEZ context. Compiled from the NGA World Port Index (public domain), UN/LOCODE, SMDG and UNCTAD by DataInt.
+- [logibook Ports](https://logibook.dataint.net/en/countries) - Georeferenced profiles for 3,316 seaports: channel/anchorage/cargo-pier depths, harbour type and shelter, pilotage and tug services, berth facilities and ISPS status, with UNCTAD liner-shipping connectivity and Marine Regions EEZ context. Compiled from the NGA World Port Index (public domain), UN/LOCODE, SMDG and UNCTAD by DataInt.
 
 ## Socioeconomic Data
 
