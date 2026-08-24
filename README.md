@@ -90,6 +90,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 ## Maritime Data
 
 - [Maritime Traffic](https://www.marinetraffic.com/en/ais-api-services) - AIS Maritime Traffic Data and APIs.
+- [OpenWaterAtlas Dive Sites](https://openwateratlas.com/en/datasets/) - Open dataset of 2,928 dive sites with coordinates joined to 5-year climate aggregates. CC-BY 4.0, DOI 10.5281/zenodo.20668393.
 
 ## Socioeconomic Data
 
