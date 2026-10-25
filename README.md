@@ -105,6 +105,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [Navitia.io](Navitia.io) - The open API for building cool stuff with transport data.
 - [OurAirports](https://ourairports.com/data/) - Airports data.
 - [IATA](https://www.iata.org/en/publications/store/airline-coding-directory/) - Airline Coding Directory and Location Identifiers.
+- [Airport-to-City-Centre Access Index](https://mubboo.flights/research/airport-city-access-index) - Dated CSV of airport-to-centre public-transport times and fares for 60 cities in 39 countries, with airport IATA codes and named central stops. Scheduled or operator-stated times, not measured door-to-door trips. Mubboo Flights Research, September 2026; CC BY 4.0.
 
 
 ## Addresses
